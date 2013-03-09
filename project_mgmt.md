@@ -6,7 +6,7 @@ Each deployable application should have its own board.  Currently we have:
  * Cloud Office
  * POS Smart Client [working title]
 
- As a general rule, please ensure your notification settings in Trello are set so that you will keep up to date with stories you are apart of.
+As a general rule, please ensure your notification settings in Trello are set so that you will keep up to date with stories you are apart of.
 
 ## Cloud Office
 
